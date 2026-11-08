@@ -8,3 +8,17 @@ Checked November 7, 2026 Pacific. Published hours are not a live opening-status 
 - storefront.jpg: https://cdn10.localdatacdn.com/ca/sacramento/3919745/original/GtCmB2VI34.jpg
 
 Every image is used once. All images require owner/rights-holder approval or replacement before commercial use as the official site. Public availability is not a transferable license.
+
+## Revision based on the studio's website
+- Design reference: https://bodybazzare.art.blog/home/ — Playfair Display and Fira Sans, light background, studio identity and navigation.
+- Piercing services: https://bodybazzare.art.blog/home/2/
+- Tattoo services and styles: https://bodybazzare.art.blog/home/3/
+- Walk-in policy, hours, contact details and existing inquiry form: https://bodybazzare.art.blog/home/4/
+- FAQ topics and horizontal tongue piercing policy: https://bodybazzare.art.blog/home/5/
+- Studio journal: https://bodybazzare.art.blog/home/6/
+- Jacob biography and portrait: https://bodybazzare.art.blog/2023/11/04/meet-jacob/
+- brand.jpg: https://bodybazzare.art.blog/wp-content/uploads/2023/11/image-1.jpg
+- jacob.jpg: https://bodybazzare.art.blog/wp-content/uploads/2023/11/image.jpg?w=900
+- heart-tattoo.jpg: https://cdn4.localdatacdn.com/ca/sacramento/3919745/original/DpO4hmvBRE.jpg
+- Inquiry form linked by the studio: https://docs.google.com/forms/d/e/1FAIpQLSeiPpTC_potqr2IAogcny85EbGaQdZRwAG7X_ZyglqGhcwprg/viewform?usp=sf_link
+The studio's older blog provides the biography. Confirm current staff availability with the business before final handoff. No medical safety guarantees or detailed aftercare claims were copied from the older FAQ.

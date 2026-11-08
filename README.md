@@ -13,7 +13,7 @@ The site is plain HTML, CSS and JavaScript. Edit `dist/` directly. `.openai/host
 
 ## Review before official launch
 
-The concept label and noindex metadata are intentional. Have the owner confirm hours, contact details, services and image permission before converting this proposal into the official website. Photos are from public business or merchant listings; their availability online does not grant a transferable commercial license. See `SOURCES.md` for the source URLs.
+Visible review/proposal labels were removed at the user’s request. The noindex metadata remains for staging. Have the owner confirm hours, contact details, services and image permission before converting this proposal into the official website. Photos are from public business or merchant listings; their availability online does not grant a transferable commercial license. See `SOURCES.md` for the source URLs.
 
 ## Verification
 
