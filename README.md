@@ -9,7 +9,7 @@ Independent website concept for owner review. This is not the business's officia
 3. Framework Preset: **Other**. Build Command and Install Command: **empty**. Output Directory: **dist**.
 4. Deploy. `vercel.json` supplies these settings. No environment variables or dependencies are required.
 
-The site is plain HTML, CSS and JavaScript. Edit `dist/` directly. `.openai/hosting.json` is used only by the existing ChatGPT Sites preview; Vercel does not need it.
+The site is plain HTML, CSS and JavaScript. Edit `dist/` directly.
 
 ## Review before official launch
 
