@@ -30,3 +30,9 @@ The site uses three short excerpts, with author, date and individual score, from
 - Ken B; 2025-09-05; 5/5; source https://tattoostudios.art/en-us/i/13181-body-bazzare-tattoo-piercing/; Google link https://maps.app.goo.gl/swsdY5HJv2AcuRjx6
 - Joshua Robbins; 2025-10-14; 5/5; source https://tattoostudios.art/en-us/i/13181-body-bazzare-tattoo-piercing/; Google link https://maps.app.goo.gl/swsdY5HJv2AcuRjx6
 Total excerpt word count: 21.
+
+## November 8, 2026 refresh
+- Contact email changed to bodybazzare916@yahoo.com at the user's explicit direction. This address was not independently verified. The older official WordPress site still links bodybazzaremarketing@gmail.com.
+- New moon-rose.jpg: https://www.lookslikecandy.com/wp-content/uploads/2020/03/81043119_1431448137022671_2590303785244876493_n.jpg
+- Source article: https://www.lookslikecandy.com/moon-and-star-tattoos/ (section “The Moon of Fate”), explicitly attributed there to Instagram @bodybazzare. This is third-party attribution. The original Instagram post was not verified and the image was not downloaded directly from Instagram. Public logged-out Instagram returned profile metadata but no usable post feed.
+- Image is a limb-only tattoo close-up, visually inspected. No commercial image license was verified. Rights-holder approval remains required before official commercial launch. No new photo is claimed to be a licensed asset or a current feed.

@@ -1,25 +1,23 @@
 # Body Bazzare Tattoo & Piercing
 
-Independent website concept for owner review. This is not the business's official website.
+Independent website concept for owner review, not the business’s official website.
 
-## Import into Vercel
+## Vercel configuration
+Import this repository, use Framework Preset **Other**, leave install/build commands empty, and select **dist** as output directory. `vercel.json` supplies these settings. No dependencies or environment variables are required.
 
-1. Import this repository as a new Vercel project.
-2. Keep Root Directory at the repository root.
-3. Framework Preset: **Other**. Build Command and Install Command: **empty**. Output Directory: **dist**.
-4. Deploy. `vercel.json` supplies these settings. No environment variables or dependencies are required.
+Edit the static HTML, CSS and JavaScript in `dist/`.
 
-The site is plain HTML, CSS and JavaScript. Edit `dist/` directly.
+## Latest refresh
+Artwork-led cream and blue-green editorial layout, service navigation, a selected-work gallery, clearer consultation planning, updated contact email and responsive layout refinements. The gallery supports Previous/Next, arrow keys, Escape, focus restoration and ordinary image-link fallback without JavaScript.
 
-## Review before official launch
+One additional moon-and-rose photo is attributed to @bodybazzare by a third-party article. It was not obtained directly from Instagram; original post and commercial licensing remain unverified. See `SOURCES.md`.
 
-Visible review/proposal labels were removed at the user’s request. The noindex metadata remains for staging. Have the owner confirm hours, contact details, services and image permission before converting this proposal into the official website. Photos are from public business or merchant listings; their availability online does not grant a transferable commercial license. See `SOURCES.md` for the source URLs.
+## Checks
+- `node --check dist/gallery.js`
+- `node --test tests/gallery.test.cjs`
+- `python tests/check_site.py`
 
-## Verification
+The interaction checks use a simulated DOM, not a real browser. Local Chromium launch was blocked by the execution environment’s socket permissions; rendered desktop/mobile layout and native browser focus behavior have not been visually verified. There is no build step or test dependency.
 
-HTML references, image uniqueness, local assets, contact links and deployment configuration checked. Deluna menu filter logic was checked with a simulated DOM. Browser layout QA was unavailable in the managed environment, so review phone and desktop layouts before showing the prospect.
-
-## Latest improvements
-
-Expanded visitor content, Google review provenance, responsive navigation and a Google location map. Review content is a cited snapshot, not a live review feed. See SOURCES.md.
-The tattoo photographs open in an accessible native dialog, with an image-link fallback when JavaScript or dialog support is unavailable.
+## Before official launch
+Keep staging noindex metadata until owner approval. Confirm hours, current staff/services, the user-supplied Yahoo address and rights to all photos. Public availability does not provide commercial reuse permission. Reviews are attributed excerpts, not a live feed.
