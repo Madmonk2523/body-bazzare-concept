@@ -22,3 +22,11 @@ Every image is used once. All images require owner/rights-holder approval or rep
 - heart-tattoo.jpg: https://cdn4.localdatacdn.com/ca/sacramento/3919745/original/DpO4hmvBRE.jpg
 - Inquiry form linked by the studio: https://docs.google.com/forms/d/e/1FAIpQLSeiPpTC_potqr2IAogcny85EbGaQdZRwAG7X_ZyglqGhcwprg/viewform?usp=sf_link
 The studio's older blog provides the biography. Confirm current staff availability with the business before final handoff. No medical safety guarantees or detailed aftercare claims were copied from the older FAQ.
+
+## Google review provenance
+
+The site uses three short excerpts, with author, date and individual score, from Google-origin reviews explicitly identified by the following source. Direct Google review text was not available through the text-only Google Maps response. Attribution to the syndicating source is visible on the page. No aggregate Google rating is shown.
+- Samantha Hlavay; 2026-02-05; 5/5; source https://tattoostudios.art/en-us/i/13181-body-bazzare-tattoo-piercing/; Google link https://maps.app.goo.gl/swsdY5HJv2AcuRjx6
+- Ken B; 2025-09-05; 5/5; source https://tattoostudios.art/en-us/i/13181-body-bazzare-tattoo-piercing/; Google link https://maps.app.goo.gl/swsdY5HJv2AcuRjx6
+- Joshua Robbins; 2025-10-14; 5/5; source https://tattoostudios.art/en-us/i/13181-body-bazzare-tattoo-piercing/; Google link https://maps.app.goo.gl/swsdY5HJv2AcuRjx6
+Total excerpt word count: 21.
